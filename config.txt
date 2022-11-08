@@ -23,7 +23,7 @@
 # 在一起的日子，格式同上
 "love_date": "2021-07-15",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "慢点 慢点 我们只会是我们",
+"note_ch": "慢点,慢点,我们只会是我们",
 # 金句英文
 "note_en": " 
 Slow down, slow down, we'll just be us"
